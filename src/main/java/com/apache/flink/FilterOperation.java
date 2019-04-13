@@ -17,7 +17,7 @@ public class FilterOperation {
 		
 		dataSet.print();
 		
-		//environment.execute();
+		//environment.execute();http://10minbasics.com/no-new-data-sinks-have-been-defined-since-the-last-execution/
 	}
 
 	private static Collection<Integer> data() {
